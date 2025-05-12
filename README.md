@@ -4,14 +4,17 @@ A collection of beginner-friendly Flutter apps built using Dart and Android Stud
 Each app is in its own folder and can be opened/run individually.
 
 ## 📱 Apps Included
-<!--
-| App Name        | Description                      |
-|----------------|----------------------------------|
-| `app_01_listview`   | Basic counter app using StatefulWidget |
-| `app_02_weather`   | Weather UI using static JSON data       |
-| `app_03_login_ui`  | Simple login screen UI layout            |
-| `app_04_todo`      | Local to-do app using ListView           |
--->
+| App Name            | Description                              |
+|---------------------|------------------------------------------|
+| `app_00_helloworld`  | Basic Hello World app                    |
+| `app_01_listview`    | Basic app using ListView                 |
+| `app_02_gridview`    | App using GridView layout                |
+| `app_03_counter`     | Basic counter app using StatefulWidget   |
+| `app_04_navigation`  | Simple app with page navigation          |
+| `app_05_unitconvert` | Unit converter app                       |
+| `app_06_foodmenu`    | Simple food menu app                     |
+| `app_07_login`       | Simple login page UI                     |
+
 ## 🛠️ Tech Stack
 
 - Flutter
