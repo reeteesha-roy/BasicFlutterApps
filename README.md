@@ -24,7 +24,7 @@ Each app is in its own folder and can be opened/run individually.
 ## 🚧 How to Run Any App
 
 1. Clone this repository
-2. Open Android Studio → Open the desired folder (like `app_01_counter`)
+2. Open Android Studio → Open the desired folder (like `app_03_counter`)
 3. Run it on an emulator or connected device
 
 ## 📚 Learning Goals
